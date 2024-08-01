@@ -9,3 +9,6 @@
   />
   <img src="https://iliano-github-stats-instance.vercel.app/api?username=Iliano101&show_icons=true&theme=transparent" />
 </picture>
+
+![](https://komarev.com/ghpvc/?username=Iliano101&style=for-the-badge)
+![](https://hit.yhype.me/github/profile?user_id=62717259)
